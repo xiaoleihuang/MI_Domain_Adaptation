@@ -1,0 +1,138 @@
+name: myenv2
+channels:
+- defaults
+dependencies:
+- certifi=2016.2.28=py27_0
+- cffi=1.10.0=py27hf1aaaf4_1
+- jedi=0.10.2=py27h8af4e35_0
+- libffi=3.2.1=hd88cf55_4
+- libgcc-ng=7.2.0=h7cc24e2_2
+- libgfortran=3.0.0=1
+- libgfortran-ng=7.2.0=h9f7466a_2
+- libgpuarray=0.6.9=0
+- libopenblas=0.2.20=h9ac9557_4
+- libstdcxx-ng=7.2.0=h7a57d05_2
+- mako=1.0.6=py27_0
+- markupsafe=1.0=py27_0
+- mkl=2017.0.3=0
+- mkl-service=1.1.2=py27_3
+- nomkl=1.0=0
+- nose=1.3.7=py27_1
+- numexpr=2.6.4=py27_nomklh19cb0ea_0
+- numpy=1.14.0=py27_nomklh7cdd4dd_0
+- olefile=0.44=py27h4bd3e3c_0
+- openssl=1.0.2l=0
+- pip=9.0.1=py27_1
+- pycparser=2.18=py27hefa08c5_1
+- pygpu=0.6.9=py27_0
+- python=2.7.13=0
+- pywavelets=0.5.2=py27hecda097_0
+- readline=6.2=2
+- scikit-learn=0.19.1=py27_nomklh6479e79_0
+- scipy=1.0.0=py27_nomklhc4f40eb_0
+- setuptools=36.4.0=py27_0
+- six=1.10.0=py27_0
+- sqlite=3.13.0=0
+- theano=0.9.0=py27_0
+- tk=8.5.18=0
+- wheel=0.29.0=py27_0
+- zlib=1.2.11=0
+- pip:
+  - appdirs==1.4.3
+  - autograd==1.1.13
+  - backports-abc==0.5
+  - backports.shutil-get-terminal-size==1.0.0
+  - backports.weakref==1.0rc1
+  - bleach==1.5.0
+  - boto==2.48.0
+  - bz2file==0.98
+  - chardet==3.0.4
+  - configparser==3.5.0
+  - cycler==0.10.0
+  - decorator==4.1.2
+  - deepspeech==0.1.0
+  - django==1.11.6
+  - entrypoints==0.2.3
+  - enum34==1.1.6
+  - funcsigs==1.0.2
+  - functools32==3.2.3.post2
+  - funcy==1.10
+  - future==0.16.0
+  - gensim==2.3.0
+  - gtts==1.2.2
+  - gtts-token==1.1.1
+  - h5py==2.7.1
+  - html5lib==0.9999999
+  - idna==2.6
+  - imbalanced-learn==0.3.1
+  - imblearn==0.0
+  - ipykernel==4.6.1
+  - ipython==5.4.1
+  - ipython-genutils==0.2.0
+  - ipywidgets==7.0.0
+  - jinja2==2.9.6
+  - joblib==0.11
+  - jsonschema==2.6.0
+  - jupyter==1.0.0
+  - jupyter-client==5.1.0
+  - jupyter-console==5.2.0
+  - jupyter-core==4.3.0
+  - keras==2.0.8
+  - markdown==2.6.9
+  - matplotlib==2.0.2
+  - mistune==0.7.4
+  - mock==2.0.0
+  - nbconvert==5.3.1
+  - nbformat==4.4.0
+  - nltk==3.2.4
+  - notebook==5.0.0
+  - oauthlib==2.0.4
+  - pandas==0.20.3
+  - pandocfilters==1.4.2
+  - parameterized==0.6.1
+  - pathlib2==2.3.0
+  - pbr==3.1.1
+  - pexpect==4.2.1
+  - pickleshare==0.7.4
+  - prompt-toolkit==1.0.15
+  - protobuf==3.4.0
+  - ptyprocess==0.5.2
+  - py==1.4.34
+  - pycuda==2017.1.1
+  - pydot-ng==1.0.0
+  - pyenchant==1.6.11
+  - pygments==2.2.0
+  - pyldavis==2.1.1
+  - pyparsing==2.2.0
+  - pytest==3.2.2
+  - python-dateutil==2.6.1
+  - pytools==2017.4
+  - pytz==2017.2
+  - pyyaml==3.12
+  - pyzmq==16.0.2
+  - qtconsole==4.3.1
+  - requests==2.18.4
+  - requests-oauthlib==0.8.0
+  - scandir==1.5
+  - scikit-cuda==0.5.1
+  - seaborn==0.8.1
+  - simplegeneric==0.8.1
+  - singledispatch==3.4.0.3
+  - sklearn==0.0
+  - smart-open==1.5.3
+  - subprocess32==3.2.7
+  - tensorflow==1.3.0
+  - tensorflow-tensorboard==0.1.6
+  - terminado==0.6
+  - testpath==0.3.1
+  - tornado==4.5.2
+  - traitlets==4.3.2
+  - tweepy==3.5.0
+  - unidecode==0.4.21
+  - urllib3==1.22
+  - wcwidth==0.1.7
+  - werkzeug==0.12.2
+  - whitenoise==3.3.1
+  - widgetsnbextension==3.0.2
+prefix: /home/xiaolei/anaconda3/envs/myenv2
+
